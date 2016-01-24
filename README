@@ -1,0 +1,1 @@
+say.exe is a tiny Windows application that speaks out it's own command line. It's influenced by Mac OS X say(1) command that does exactly same thing. You can use it in batch jobs, auto start (run key in registry) etc.
